@@ -10,7 +10,7 @@ public class DatabaseConnection {
 	
 
 	private static String mysql_driverName = "com.mysql.jdbc.Driver";
-	private static String mysql_dbUrl = "jdbc:mysql://localhost:3306/online_food_order";
+	private static String mysql_dbUrl = "jdbc:mysql://localhost:3306/mail_server";
 	private static String mysql_userName = "root";
 	private static String mysql_dbPass = "";
 
