@@ -68,4 +68,10 @@ public class Register implements Serializable {
 		this.country = country;
 	}
 
+	@Override
+	public String toString() {
+		return "Register [user_id=" + user_id + ", password=" + password + ", name=" + name + ", address=" + address
+				+ ", mobile_no=" + mobile_no + ", gender=" + gender + ", country=" + country + "]";
+	}
+
 }
