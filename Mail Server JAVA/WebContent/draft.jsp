@@ -38,17 +38,15 @@
 				<th>To</th>
 				<th>Subject</th>
 				<th>Message</th>
-				<th>Date</th>
 			</tr>
 			<%
 				while (rs.next()) {
 			%>
 			<TR>
-				<TD><%=rs.getString(2)%></td>
+				<TD><%=rs.getString(1)%></td>
+				<TD><%=rs.getString(2)%></TD>
 				<TD><%=rs.getString(3)%></TD>
 				<TD><%=rs.getString(4)%></TD>
-				<TD><%=rs.getString(5)%></TD>
-				<TD><%=rs.getString(6)%></TD>
 			</TR>
 			<%
 				}
