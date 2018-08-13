@@ -1,0 +1,23 @@
+.menu{
+list-style:none;
+padding:0;
+margin:0;
+width:200px;
+border:1px solid #aaa;
+}
+
+.menu li a{
+display:block;
+padding:5px;
+border:2px solid #ddd;
+border-bottom:1px solid #aaa;
+text-decoration:none;
+font:1em Georgia;
+color:#555;
+zoom:2;
+}
+
+.menu li a:hover{
+background:#000;
+color:#fff;
+}
