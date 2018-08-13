@@ -1,0 +1,80 @@
+#Layer1 {
+	position:absolute;
+	
+	float:right;
+	
+	right:72px;
+	top:146px;
+	width:292px;
+	height:283px;
+	margin : 2px;
+	
+	z-index:1;
+	background-color:#0099CC
+
+	
+	
+}
+#layer2 {
+	position : absolute;
+	float : left;
+	left: 11px;
+	top: 137px;
+	height: 249px;
+	width: 275px;
+	
+  
+  } 
+  
+.style1 {
+	text-align: center;
+}
+.style2 {
+	border-style: solid;
+	border-color: #808080;
+}
+.style3 {
+	color: #808080;
+}
+.style4 {
+	font-weight: normal;
+}
+.style5 {
+	font-size: large;
+}
+.style6 {
+	text-decoration: none;
+}
+a:visited {
+	color: #0000FF;
+}
+.style7 {
+	vertical-align: middle;
+	border-width: 0px;
+}
+.style9 {
+	color: #0000FF;
+	font-family: Forte;
+}
+.style10 {
+	border-collapse: collapse;
+	font-family: Calibri;
+	margin-left: 35px;
+}
+.style11 {
+	font-size: xx-large;
+	font-family: Calibri;
+}
+  
+.style12 {
+	text-align: center;
+	font-size: small;
+}
+  
+.style13 {
+	font-family: Calibri;
+}
+  
+.style14 {
+	font-size: x-large;
+}
