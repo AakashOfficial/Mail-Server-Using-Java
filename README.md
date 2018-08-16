@@ -1,15 +1,15 @@
 # Mail-Server-Using-Java
 
-This is a Mail Server written in Java Language. Technology used In This Application are 
+This is a Mail Server written in Java Language. Technology used In This Application are as Follows :-
 
-Java Technology - Servlet, JSP, JSTL.
+Backend - Servlet, JSP, JSTL.
 
-Web Technology - Web Design, HTML5, CSS3, JQuery.
+Frontend - Web Design, HTML5, CSS3, JQuery.
 
 Database - MySQL.
 
 Web Server - Tomcat.
 
-IDE - Eclipse.
+IDE - Eclipse (For Backend), Dreamweaver (For Frontend).
 
-Industry Pattern - Model View Controller(MVC)
+Industry Pattern - Model View Controller(MVC).
