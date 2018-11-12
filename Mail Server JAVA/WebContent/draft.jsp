@@ -54,7 +54,7 @@
 		</TABLE>
 
 		<%
-			rs.close();
+			        rs.close();
 				stmt.close();
 				conn.close();
 			} catch (Exception e) {
