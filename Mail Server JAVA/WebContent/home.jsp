@@ -4,8 +4,10 @@
 	if (user == null) {
 		/* RequestDispatcher rd = request.getRequestDispatcher("index.jsp");
 		rd.forward(request, response); */
+		
+		// This is For Redirect the URL to Default Page if User is Not Login and Trying to edit the Web Link To the Web Browser.
 		String redirectURL = "http://localhost:8080/Mail_Server_JAVA/";
-        response.sendRedirect(redirectURL);
+                response.sendRedirect(redirectURL);
 	}
 %>
 <html>
