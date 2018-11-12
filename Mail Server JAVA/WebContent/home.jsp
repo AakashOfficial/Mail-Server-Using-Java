@@ -31,12 +31,10 @@
 						<li><a href="inbox.jsp" target="a">InBox</a></li>
 						<li><a href="sent.jsp" target="a">SENT</a></li>
 						<li><a href="draft.jsp" target="a">DRAFT</a></li>
-						<li><a href="#"><img src="image/sdsss.png" width="85"
-								height="60"></img></a></li>
+						<li><a href="#"><img src="image/sdsss.png" width="85" height="60"></img></a></li>
 					</ul>
 				</div>
 				<div class="contents" id="content">
-
 					<br>
 					<iframe name="a" height="500" width="500" src="inbox.jsp"
 						scrolling="no" frameborder="0"></iframe>
